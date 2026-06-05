@@ -1,0 +1,5 @@
+# Private archive - nothing sensitive should ever end up here
+archive/
+*.pdf
+*.doc
+*.docx
