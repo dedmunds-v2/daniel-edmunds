@@ -18,7 +18,7 @@ Zero-trust SASE architecture design and deployment for tier-1 banks, including o
 
 ## [Cloud Network & Security Architecture](cloud-network-architecture.md)
 
-Multi-cloud and private cloud network and security architecture rollouts across Azure, AWS, GCP, and proprietary infrastructure. EVPN-VxLAN, NFV (NSX-T), and hybrid cloud interconnect design.
+Multi-cloud and private cloud network and security architecture rollouts across Azure, AWS, GCP, and proprietary infrastructure. EVPN-VxLAN and hybrid cloud interconnect design.
 
 ---
 
@@ -42,7 +42,7 @@ Proof-of-concept MP-BGP EVPN implementation for automated endpoint multi-tenancy
 
 ## [Global Network Security Redesign](network-security-redesign.md)
 
-Migration of global network security infrastructure from Juniper and Cisco platforms to Fortinet, with complete security architecture redesign across all trading environments.
+Complete redesign of the global network security architecture across all trading environments, consolidating multi-vendor infrastructure into a unified security platform.
 
 ---
 
